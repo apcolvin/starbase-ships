@@ -1,7 +1,7 @@
 # Sower
 
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Version](https://img.shields.io/static/v1?label=Version&message=1.0.1&color=blue)](#changelog)
+[![Version](https://img.shields.io/static/v1?label=Version&message=1.1.0&color=blue)](#changelog)
 [![Blueprint](https://img.shields.io/static/v1?label=Blueprint&message=Free%20Download&color=brightgreen)](#download-blueprint)
 
 The Sower is a starter ship designed to only require safe zone ore to build. It is quite fast and cheap, and with 36 crates, it makes a decent ship to use to help with the grind towards a more advanced ship.
@@ -25,7 +25,7 @@ The ship has the following features:
 - One resource bridge
 - Auto generator rate script with adjustable minimum rate
 - Six T1 generators with two T1 fuel chambers and four spare rods on racks
-- Radiators that provide more than adequate cooling
+- Radiators and heat sink that provide more than adequate cooling
 - 12 small tanks with 12,000,000 units of propellant
 - 20 batteries
 - 32 T1 triangle thrusters providing forward thrust
@@ -36,7 +36,12 @@ The ship has the following features:
 
 ## Changelog
 
-### v1.0.1 (Current) - 16/03/2022
+### v1.1.0 (Current) - XX/XX/2022
+
+- Added heat sink
+- Reduced amount of radiators to only one base and two extensions
+
+### v1.0.1 - 16/03/2022
 
 - Fixed centering speed for `FcuUpDown` lever
 - Removed the single YOLOL rack label
