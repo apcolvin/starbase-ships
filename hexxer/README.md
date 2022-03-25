@@ -1,7 +1,7 @@
 # Hexxer
 
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Version](https://img.shields.io/static/v1?label=Version&message=1.0.1&color=blue)](#changelog)
+[![Version](https://img.shields.io/static/v1?label=Version&message=1.1.0&color=blue)](#changelog)
 [![Blueprint](https://img.shields.io/static/v1?label=Blueprint&message=Free%20Download&color=brightgreen)](#download-blueprint)
 
 The Hexxer is a ship for hauling small asteroids, designed to be used in the safe zone. It uses six tractor beams to pull asteroids into six compartments of cargo lock beams in a hex pattern.
@@ -49,7 +49,13 @@ The ship has the following features:
 
 ## Changelog
 
-### v1.0.1 (Current) - 03/03/2022
+### v1.1.0 (Current) - XX/XX/2022
+
+- Added two heat sinks
+- Reduced radiators to two bases
+- Painted both layers of generators and fuel chambers black
+
+### v1.0.1 - 03/03/2022
 
 - Added `Unload` button which turns off all cargo lock beams
 - Removed some thin floor plates on either side of cockpit for easier access to levers
