@@ -1,7 +1,7 @@
 # Piercer
 
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Version](https://img.shields.io/static/v1?label=Version&message=1.0.0&color=blue)](#changelog)
+[![Version](https://img.shields.io/static/v1?label=Version&message=1.1.0&color=blue)](#changelog)
 [![Blueprint](https://img.shields.io/static/v1?label=Blueprint&message=Free%20Download&color=brightgreen)](#download-blueprint)
 
 The Piercer is a 334 ore crate capacity fast travel capable mining ship with an automated rotating laser drill for mining operations.
@@ -32,8 +32,8 @@ The ship has the following features:
 - Approach and auto mine functions
 - Two external and two internal resource bridges
 - Auto generator rate script with adjustable minimum rate
-- 32 T2 generators with 12 T2 fuel chambers equipped with one T1 enhancers each and 24 spare rods on racks
-- Radiators that provide more than adequate cooling
+- 32 T2 generators with 12 T2 fuel chambers and 24 spare rods on racks
+- Radiators and heat sinks that provide more than adequate cooling
 - 12 large propellant tanks with 108,000,000 units of propellant
 - Estimated flight time of 6 hours and range of 3000km
 - Propellant time and fuel time panels
@@ -41,10 +41,10 @@ The ship has the following features:
 - 32 T2 box and 104 T2 triangle thrusters providing forward thrust
 - 32 T2 triangle thrusters providing braking thrust
 - 48 T2 triangle thrusters for maneuvers
-- Basic crafting bench to craft refills (will need to bolt own meter upgrade for T2 refills) plus the tools bench
+- Basic crafting bench to craft refills plus the tools bench
 - [NavGrid by StandPeter](https://github.com/pcbennion/starbase-navgrid)
 - [NavCas by fixerid](https://github.com/fixerid/sb-projects/tree/main/NavCas), using custom avoidance system and ISAN 3 in 1 from [Compass by Firestar99](https://gitlab.com/Firestar99/yolol/-/blob/master/src/compass/README.md), with ability to load target from NavGrid
-- Warning lights and alarm for obstacle detection and avoidance, powered by 36 rangefinders
+- Warning lights and alarm for obstacle detection and avoidance, powered by 31 rangefinders
 - Speedometer by MoriWatari
 - Timer panel
 - Odometer panel
@@ -52,6 +52,14 @@ The ship has the following features:
 - Top speed of 140m/s when empty
 
 ## Changelog
+
+### v1.1.0 (Current) - XX/XX/2022
+
+- Moved beam to align with lower floor access
+- Added meter upgrade to basic crafting bench
+- Removed all enhancers
+- Added eight heat sinks
+- Reduced radiators to four bases and eight extensions
 
 ### v1.0.0 (Current) - 26/02/2022
 
@@ -221,10 +229,6 @@ Of course in-game tips are greatly appreciated.
 ### Can I sell ships based on this blueprint?
 
 No.
-
-### Why can't the crafting bench craft T2 refills?
-
-You need to bolt a meter upgrade to the bench. The ship designer doesn't provide it so I couldn't add it to the blueprint.
 
 ### Why does NavGrid show an error?
 
