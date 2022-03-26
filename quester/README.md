@@ -1,7 +1,7 @@
 # Quester
 
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Version](https://img.shields.io/static/v1?label=Version&message=1.0.4&color=blue)](#changelog)
+[![Version](https://img.shields.io/static/v1?label=Version&message=1.1.0&color=blue)](#changelog)
 [![Blueprint](https://img.shields.io/static/v1?label=Blueprint&message=Free%20Download&color=brightgreen)](#download-blueprint)
 
 The Quester multi purpose command or explorer ship that is fitted with a medbay with a reconstruction machine and a workshop with all three crafting benches.
@@ -37,7 +37,6 @@ The ship has the following features:
 - Solar panels which can generate up to 4,300 EPS of power
 - Auto generator rate script with adjustable minimum rate
 - 30 T2 generators with 10 T2 fuel chambers and 20 spare rods on racks
-- Radiators that provide more than adequate cooling
 - 16 large and 40 small propellant tanks with 184,000,000 units of propellant
 - Estimated propellant time of 10 hours and range of 5,000km
 - Propellant time and fuel time panels
@@ -57,6 +56,13 @@ The ship has the following features:
 - Top speed of 140m/s before main hall is fitted
 
 ## Changelog
+
+### v1.1.0 (Current) - XX/XX/2022
+
+- Painted thrusters black and nozzles red
+- Removed some useless bolts that were sticking out
+- Added eight heat sinks
+- Reduced radiators to four bases and eight extensions
 
 ### v1.0.4 (Current) - 07/01/2022
 
