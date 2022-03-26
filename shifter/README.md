@@ -1,7 +1,7 @@
 # Shifter
 
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Version](https://img.shields.io/static/v1?label=Version&message=1.0.4&color=blue)](#changelog)
+[![Version](https://img.shields.io/static/v1?label=Version&message=1.1.0&color=blue)](#changelog)
 [![Blueprint](https://img.shields.io/static/v1?label=Blueprint&message=Free%20Download&color=brightgreen)](#download-blueprint)
 
 The Shifter is a 450 ore crate capacity fast travel capable mining ship with a spacious interior allowing for multi crew operations. The controls, tools and features are similar to the [Stocker](../stocker).
@@ -35,7 +35,7 @@ The ship has the following features:
 - Two external and four internal resource bridges
 - Auto generator rate script with adjustable minimum rate
 - 32 T2 generators with 12 T2 fuel chambers and 24 spare rods on racks
-- Radiators that provide more than adequate cooling
+- Radiators and heat sinks that provide more than adequate cooling
 - Nine large propellant tanks with 81,000,000 units of propellant
 - Estimated flight time of 4 hours and range of 2,000km
 - Propellant time and fuel time panels
@@ -43,7 +43,7 @@ The ship has the following features:
 - 42 T2 box and 124 T2 triangle thrusters providing forward thrust
 - 48 T2 triangle thrusters providing braking thrust
 - 72 T2 triangle thrusters for maneuvers
-- Basic crafting bench to craft refills (will need to bolt own meter upgrade for T2 refills) plus the other two benches
+- Basic crafting bench to craft refills with meter upgrade plus the other two benches
 - Extra two small propellant tank with its own resource bridge for emergency refueling
 - Two extra hardpoints (all cabled and piped)
 - [NavGrid by StandPeter](https://github.com/pcbennion/starbase-navgrid)
@@ -57,7 +57,14 @@ The ship has the following features:
 
 ## Changelog
 
-### v1.0.4 (Current) - 16/02/2022
+### v1.1.0 (Current) - XX/XX/2022
+
+- Painted thrusters black
+- Added meter upgrade to basic crafting bench
+- Added eight heat sinks
+- Reduced radiators to fouor bases and eight extensions
+
+### v1.0.4 - 16/02/2022
 
 - Fixed sweeping of lasers
 - Changed material of some beams which was mistakenly changed back to Bastium
@@ -248,10 +255,6 @@ Of course in-game tips are greatly appreciated.
 ### Can I sell ships based on this blueprint?
 
 No.
-
-### Why can't the crafting bench craft T2 refills?
-
-You need to bolt a meter upgrade to the bench. The ship designer doesn't provide it so I couldn't add it to the blueprint.
 
 ### Will changing all thruster nozzles to T3 versions increase speed?
 
