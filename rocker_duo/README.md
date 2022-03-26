@@ -1,7 +1,7 @@
 # Rocker Duo
 
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Version](https://img.shields.io/static/v1?label=Version&message=1.0.2&color=blue)](#changelog)
+[![Version](https://img.shields.io/static/v1?label=Version&message=1.1.0&color=blue)](#changelog)
 [![Blueprint](https://img.shields.io/static/v1?label=Blueprint&message=Free%20Download&color=brightgreen)](#download-blueprint)
 
 The Rocker Duo is a asteroid hauling ship that is bascially two [Rockers](../rocker) mashed together. It is designed to be used in the safe zone and haul small asteroids.
@@ -51,7 +51,14 @@ The ship has the following features:
 
 ## Changelog
 
-### v1.0.2 (Current) - 04/03/2022
+### v1.1.0 (Current) - XX/XX/2022
+
+- Painted thrusters, generators and fuel chambers black
+- Painted propellant tanks red
+- Added four heat sinks
+- Reduced radiators to four bases
+
+### v1.0.2 - 04/03/2022
 
 - Piped and cabled four braking thusters that were not connected
 - Added `Unload` buttons which turns off cargo lock beams on right and left side respectively
